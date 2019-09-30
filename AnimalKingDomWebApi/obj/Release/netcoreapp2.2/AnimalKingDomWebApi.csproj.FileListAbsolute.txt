@@ -1,0 +1,14 @@
+C:\Users\Beer\source\repos\AnimalKingDomWebApi\AnimalKingDomWebApi\bin\Release\netcoreapp2.2\AnimalKingDomWebApi.deps.json
+C:\Users\Beer\source\repos\AnimalKingDomWebApi\AnimalKingDomWebApi\bin\Release\netcoreapp2.2\AnimalKingDomWebApi.runtimeconfig.json
+C:\Users\Beer\source\repos\AnimalKingDomWebApi\AnimalKingDomWebApi\bin\Release\netcoreapp2.2\AnimalKingDomWebApi.runtimeconfig.dev.json
+C:\Users\Beer\source\repos\AnimalKingDomWebApi\AnimalKingDomWebApi\bin\Release\netcoreapp2.2\AnimalKingDomWebApi.dll
+C:\Users\Beer\source\repos\AnimalKingDomWebApi\AnimalKingDomWebApi\bin\Release\netcoreapp2.2\AnimalKingDomWebApi.pdb
+C:\Users\Beer\source\repos\AnimalKingDomWebApi\AnimalKingDomWebApi\obj\Release\netcoreapp2.2\AnimalKingDomWebApi.csprojAssemblyReference.cache
+C:\Users\Beer\source\repos\AnimalKingDomWebApi\AnimalKingDomWebApi\obj\Release\netcoreapp2.2\AnimalKingDomWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Beer\source\repos\AnimalKingDomWebApi\AnimalKingDomWebApi\obj\Release\netcoreapp2.2\AnimalKingDomWebApi.RazorAssemblyInfo.cache
+C:\Users\Beer\source\repos\AnimalKingDomWebApi\AnimalKingDomWebApi\obj\Release\netcoreapp2.2\AnimalKingDomWebApi.RazorAssemblyInfo.cs
+C:\Users\Beer\source\repos\AnimalKingDomWebApi\AnimalKingDomWebApi\obj\Release\netcoreapp2.2\AnimalKingDomWebApi.AssemblyInfoInputs.cache
+C:\Users\Beer\source\repos\AnimalKingDomWebApi\AnimalKingDomWebApi\obj\Release\netcoreapp2.2\AnimalKingDomWebApi.AssemblyInfo.cs
+C:\Users\Beer\source\repos\AnimalKingDomWebApi\AnimalKingDomWebApi\obj\Release\netcoreapp2.2\AnimalKingDomWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Beer\source\repos\AnimalKingDomWebApi\AnimalKingDomWebApi\obj\Release\netcoreapp2.2\AnimalKingDomWebApi.dll
+C:\Users\Beer\source\repos\AnimalKingDomWebApi\AnimalKingDomWebApi\obj\Release\netcoreapp2.2\AnimalKingDomWebApi.pdb
